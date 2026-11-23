@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Dream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "1234-ZmVO.aternos.me",
+    "port": 49795,
     "version": "",
     "try-creative": false
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1574523035598323765/dTx_5QJSJyco27LBRzobv8KnYiN7oKF8RB2ktRalz23riUD3h6fiiDKV9RnP4YBQC8Vu",
     "events": {
       "connect": true,
       "disconnect": true,
